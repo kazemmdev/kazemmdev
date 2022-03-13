@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-- ⚡ Read my stories at [Medium](https://medium.com/@kzmirzaei)
+- ⚡ [Read my stories at Medium](https://medium.com/@kzmirzaei)
 
 - 🔭 I’m currently working on React, Laravel, PostgreSQL.
 
