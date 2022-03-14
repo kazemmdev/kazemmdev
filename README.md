@@ -8,7 +8,7 @@
 
 - ⚡ [Read my stories at Medium](https://medium.com/@kzmirzaei)
 
-- 🔭 I’m currently working on React, Laravel, PostgreSQL.
+- 🔭 I’m currently working on Laravel, Vue, React, MySql, PostgreSQL.
 
 - 📫 Send me a message [@k90mirzaei](https://twitter.com/k90mirzaei)
 
