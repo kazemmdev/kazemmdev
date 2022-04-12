@@ -14,7 +14,4 @@
 
 [![Kazem Mirzaei's GitHub stats](https://github-readme-stats.vercel.app/api?username=k90mirzaei&show_icons=true)](https://github.com/k90mirzaei)
 
-### 🏆 Github Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=k90mirzaei&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
