@@ -1,5 +1,5 @@
-# Hey There! 👋
-**I'm Kazem Mirzaei** - I'm a fullstack developer that seeks scalability and performance challenges in his career. Can cook robust well-defined software solutions with cutting-edge technologies out of an abstract business idea.
+# Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
+Kazem Mirzaei, a **Fullstack Developer**, seeks scalability and performance challenges in his career and can cook robust well-defined software solutions using cutting-edge technologies.
 
 <a href="mailto:k90mirzaei@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
 <a href="https://www.twitter.com/k90mirzaei"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=30></a>
