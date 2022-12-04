@@ -8,7 +8,7 @@ Kazem Mirzaei, a **Fullstack Developer**, seeks scalability and performance chal
 <br/>
 
 ### 🛠️ Technologies
-[![My Skills](https://skillicons.dev/icons?i=php,py,js,laravel,vue,nuxt,react,ts,next,nginx,mysql,mongodb,postgres,docker,git,github,gitlab,regex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,py,js,laravel,vue,nuxt,react,ts,next,nginx,mysql,mongodb,postgres,docker,kubernetes,git,github,gitlab,regex)](https://skillicons.dev)
 
 <br/>
 <details>
