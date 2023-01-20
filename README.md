@@ -1,5 +1,5 @@
 # Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
-Kazem Mirzaei, a **Fullstack Developer**, seeks scalability and performance challenges in his career and can cook robust well-defined software solutions using cutting-edge technologies.
+I'm a full stack dev with an eye for detail and a passion for crafting beautiful software. I specialize in PHP, Laravel, React, NextJS, Vue, NuxtJS, and Docker. Let's build something amazing together!
 
 <a href="mailto:k90mirzaei@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
 <a href="https://www.twitter.com/k90mirzaei"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=30></a>
