@@ -5,14 +5,15 @@ I'm a full stack dev with an eye for detail and a passion for crafting beautiful
 <a href="https://www.twitter.com/kazemmdev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=30></a>
 <a href="https://www.linkedin.com/in/kazemmdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
 <a href="https://medium.com/@kazemmdev"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=30>
+
 <br/>
 
 ### 🛠️ Technologies
 [![My Skills](https://skillicons.dev/icons?i=php,py,js,laravel,vue,nuxt,react,ts,next,nginx,mysql,mongodb,postgres,docker,kubernetes,git,github,gitlab,regex)](https://skillicons.dev)
 
 <br/>
-<details>
-<summary>💻 GitHub Profile Stats</summary>
+
+### 💻 GitHub Profile Stats
+
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats-k90mirzaei.vercel.app/api?username=kazemmdev&rank_icon=percentile&include_all_commits=true&count_private=true&show_icons=true&theme=react&hide_border=true&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kazemmdev's Top Languages" src="https://github-readme-stats-k90mirzaei.vercel.app/api/top-langs/?layout=compact&bg_color=1F222E&username=kazemmdev&langs_count=8&hide=Jupyter%20Notebook&hide_border=true&title_color=F85D7F&theme=react&icon_color=F8D866" height="192px"/></a>
-</details>
