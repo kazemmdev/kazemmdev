@@ -8,11 +8,6 @@ I'm a full stack dev with an eye for detail and a passion for crafting beautiful
 
 <br/>
 
-### 🛠️ Technologies
-[![My Skills](https://skillicons.dev/icons?i=php,py,js,laravel,vue,nuxt,react,ts,next,nginx,mysql,mongodb,postgres,docker,kubernetes,git,github,gitlab,regex)](https://skillicons.dev)
-
-<br/>
-
 ### 💻 GitHub Profile Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats-k90mirzaei.vercel.app/api?username=kazemmdev&rank_icon=percentile&include_all_commits=true&count_private=true&show_icons=true&theme=react&hide_border=true&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
