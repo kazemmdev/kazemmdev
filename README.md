@@ -3,7 +3,7 @@ I'm a full stack dev with an eye for detail and a passion for crafting beautiful
 
 <a href="mailto:kazemmdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
 <a href="https://www.twitter.com/kazemmdev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=30></a>
-<a href="https://www.linkedin.com/in/kazemmdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
+<a href="https://www.linkedin.com/in/kazem-mirzaei"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
 <a href="https://medium.com/@kazemmdev"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=30>
 
 <br/>
